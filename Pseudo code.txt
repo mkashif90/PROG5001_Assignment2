@@ -1,0 +1,15 @@
+Pseudo Code:
+
+Algorithm 2: To allow users to select and execute each function:
+
+1. Start
+2. writing menu options given below for the user to select 1 number to get desired results.
+	  1. to display students information and assignment marks."+
+          2. Enter 2 to display students information with total marks of all assignments."+
+          3. Enter 3 to display Students Details, Marks and Total Marks for who less than threshold."+
+          4. Enter 4 to display the top 10 students with the highest total marks and top 10 students with the lowest total marks."+
+          5. Enter 0 to End "
+3. receiving user input in option variable.
+4. using Switch structure cases to perform functions against each menu item.
+5. End
+
